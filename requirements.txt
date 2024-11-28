@@ -1,0 +1,7 @@
+﻿streamlit
+streamlit_option_menu
+opencv-contrib-python-headless
+pandas
+numpy
+mediapipe
+scikit-learn
